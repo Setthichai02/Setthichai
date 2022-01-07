@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+🌱 I’m currently learning in HTML5, CSS, JavaScript, Python
 <!--
 **Setthichai02/Setthichai02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
